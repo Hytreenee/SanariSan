@@ -17,7 +17,7 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanarisan&count_private=true&show_icons=true&theme=tokyonight" alt="SanariSan Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanarisan&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs" />
+  <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanarisan&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs" />
 </div>
 
 ---
