@@ -41,4 +41,4 @@
 ---
 <h3 align="left">Get in touch:</h3>
 
-<a href="https://t.me/rizidix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/telegram.svg" alt="SanariSan" height="30" width="40" /></a>
+<a href="https://t.me/rizidix" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/telegram.svg" alt="SanariSan" height="30" width="40" /></a>
