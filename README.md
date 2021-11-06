@@ -1,10 +1,13 @@
-### Hi there 👋
 <h1 align="center">Hi 👋 and welcome to my profile!</h1>
 <h3 align="center">I'm 20 y.o. Junior developer from Russia 😇</h3>
 
 </br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SanariSan&theme=tokyonight&margin-w=15&margin-h=15&column=7&title=Commit,Issues,PR,Repo,Joined2020" alt="SanariSan" /></a> </p>
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SanariSan&theme=tokyonight&margin-w=15&margin-h=15&column=7&title=Commit,Issues,PR,Repo,Joined2020" />
+  </a>
+</div>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanarisan&count_private=true&show_icons=true&theme=tokyonight" alt="SanariSan Stats" />
