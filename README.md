@@ -15,11 +15,23 @@
 
 </br>
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanarisan&count_private=true&show_icons=true&theme=tokyonight" alt="SanariSan Stats" />
-  <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanarisan&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs" />
+<div align="center">
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=sanarisan&count_private=true&show_icons=true&theme=tokyonight" alt="SanariSan Stats" />
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanarisan&layout=compact&langs_count=10&theme=tokyonight" alt="SanariSan langs" />
 </div>
+
+</br>
 
 ---
 
-![My first contribution ( Inquirer )](https://github.com/SBoudrias/Inquirer.js/issues/1042#issue-995134115)
+</br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a align="center" href="https://github.com/SBoudrias/Inquirer.js/issues/1042#issue-995134115">My first contribution ( Inquirer )</a>
+      </td>
+    </tr>
+  </table>
+</div>
