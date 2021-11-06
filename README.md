@@ -4,7 +4,7 @@
 
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SanariSan&theme=tokyonight&margin-w=15&margin-h=15&column=7&title=Commit,Issues,PR,Repo,Joined2020" alt="SanariSan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SanariSan&theme=tokyonight&margin-w=15&margin-h=15&column=7&title=Commit,Issues,PR,Repo,Joined2020" alt="SanariSan" /></a> </p>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanarisan&count_private=true&show_icons=true&theme=tokyonight" alt="SanariSan Stats" />
