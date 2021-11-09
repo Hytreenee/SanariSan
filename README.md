@@ -33,6 +33,11 @@
         <a align="center" href="https://github.com/SBoudrias/Inquirer.js/issues/1042#issue-995134115">My first contribution ( Inquirer )</a>
       </td>
     </tr>
+    <tr>
+      <td>
+        My graduation project ( cloud ) <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo</a> | <a align="center" href="https://storeton.herokuapp.com">deployed</a>
+      </td>
+    </tr>
   </table>
 </div>
 
