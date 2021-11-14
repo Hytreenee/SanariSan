@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 and welcome to my profile!</h1>
-<h3 align="center">I'm 20 y.o. Junior developer from Russia 😇</h3>
-<h5 align="center"><i>" Always write code like if it's gonna be used by someone else, even if it's not " *</i></h5>
+<h3 align="center">I'm Edward, 20 y.o. Junior developer from Russia 😇</h3>
+<h6 align="center"><i>«Always write code like if it's gonna be used by someone else, even if it's not»» </i><b>*</b></h6>
 
 <hr />
 
@@ -32,12 +32,27 @@
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SBoudrias/Inquirer.js/issues/1042#issue-995134115">My first contribution ( Inquirer )</a>
+        My <a align="center" href="https://github.com/SBoudrias/Inquirer.js/issues/1042#issue-995134115">first contribution</a> ( Inquirer )
       </td>
     </tr>
     <tr>
       <td>
         My graduation project ( cloud ) <a align="center" href="https://github.com/SanariSan/cloud-fullstack">repo</a> | <a align="center" href="https://storeton.herokuapp.com">deployed</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://github.com/SanariSan/ts-backend-v2">Backend boilerplate</a> I'm currently working on
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://github.com/SanariSan/node-js-async-workflow">Scheme I made</a> while researching how EventLoop and Async stuff works
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a align="center" href="https://gist.github.com/SanariSan/464be2d88f44782b022bd09cd85b9c2a">Set of bash scripts</a> I wrote and actively use to configure Ubuntu
       </td>
     </tr>
   </table>
