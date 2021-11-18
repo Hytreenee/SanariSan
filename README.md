@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td>
-        <a align="center" href="https://github.com/SanariSan/node-js-async-workflow">Scheme I made</a> while researching how EventLoop and Async stuff works
+        <a align="center" href="https://github.com/SanariSan/node-js-async-workflow">Scheme I made</a> while learning how EventLoop and Async stuff works
       </td>
     </tr>
     <tr>
