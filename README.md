@@ -107,7 +107,7 @@
     <tr>
       <td><code>heroku</code></td>
       <td><code>github pages</code></td>
-      <td><code>c# forms</code></td>
+      <td><code>adb+frida</code></td>
     </tr>
   </table>
   
