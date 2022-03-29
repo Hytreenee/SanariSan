@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 and welcome to my profile!</h1>
 <h3 align="center">I'm Edward, 20 y.o. Junior developer from Russia 😇</h3>
-<h6 align="center"><i>«Always write code like if it's gonna be used by someone else, even if it's not» </i><b>*</b></h6>
+<h6 align="center"><i>«Always writing code like if it's gonna be used by someone else, even if it's not» </i><b>*</b></h6>
 
 <hr />
 
