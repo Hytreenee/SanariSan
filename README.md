@@ -124,17 +124,24 @@
       <td colspan="3"><b>Planned</b></td>
     </tr>
     <tr>
+      <td><code>Redux</code></td>
+      <td><code>Mobx</code></td>
+      <td><code>Preact</code></td>
+    </tr>
+    <tr>
       <td><code>WebPack</code></td>
       <td><code>GraphQL</code></td>
       <td><code>Passport.js</code></td>
     </tr>
     <tr>
-      <td><code>Preact</code></td>
-      <td><code>Redux</code></td>
-      <td><code>BEM</code></td>
+      <td><code>Tests</code></td>
+      <td><code>SSR</code></td>
+      <td><code>Nest</code></td>
     </tr>
     <tr>
-      <td><code>Tests</code></td>
+      <td><code>Next</code></td>
+      <td><code>Vue</code></td>
+      <td><code>BEM (pure)</code></td>
     </tr>
   </table>
 </div>
